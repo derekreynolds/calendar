@@ -1,0 +1,31 @@
+{
+    "relationships": [
+        {
+            "relationshipName": "calendar",
+            "otherEntityName": "calendar",
+            "relationshipType": "many-to-one",
+            "otherEntityField": "id"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "description",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "holidayDate",
+            "fieldType": "LocalDate"
+        }
+    ],
+    "changelogDate": "20160924143731",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "holiday",
+    "pagination": "pagination",
+    "microserviceName": "calendar",
+    "searchEngine": "no"
+}

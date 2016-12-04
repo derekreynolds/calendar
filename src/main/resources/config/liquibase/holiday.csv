@@ -1,0 +1,5 @@
+id;created_by;name;description;holiday_date;calendar_id
+1;SYSTEM;St. Patrick's Day;National Holiday;2015-03-17;1
+2;SYSTEM;Christmas Day;National Holiday;2015-12-25;1
+3;SYSTEM;St. Patrick's Day;National Holiday;2016-03-17;2
+4;SYSTEM;Christmas Day;National Holiday;2016-12-25;2
